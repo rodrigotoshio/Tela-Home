@@ -1,6 +1,3 @@
-Com base nas imagens e no código que você me forneceu, criei um README.md completo e com um visual agradável para o seu projeto.
-
-Você pode copiar e colar o conteúdo abaixo diretamente em um arquivo `README.md` no seu repositório.
 
 -----
 
