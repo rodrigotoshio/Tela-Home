@@ -1,12 +1,79 @@
-# React + Vite
+Com base nas imagens e no código que você me forneceu, criei um README.md completo e com um visual agradável para o seu projeto.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Você pode copiar e colar o conteúdo abaixo diretamente em um arquivo `README.md` no seu repositório.
 
-Currently, two official plugins are available:
+-----
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# SENAI SKILL–UP
 
-## Expanding the ESLint configuration
+\<p align="center"\>
+\<img src="[https://i.imgur.com/k6wD8W1.png](https://www.google.com/search?q=https://i.imgur.com/k6wD8W1.png)" alt="Capa do projeto Senai Skill-Up" width="300"/\>
+\</p\>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎮 Sobre o Projeto
+
+O SENAI Skill Up é um jogo de perguntas e respostas desenvolvido para tornar o aprendizado no SENAI mais dinâmico e divertido. Ele permite que os alunos testem seus conhecimentos, compitam e interajam com professores de uma forma envolvente.
+
+### ✨ Funcionalidades
+
+  * **Desafie-se**: Um jogo de perguntas e respostas que torna o aprendizado mais dinâmico.
+  * **Divirta-se**: O jogo conta com dois modos de gameplay: normal e multiplayer, com competição, ranking e cartas de ajuda.
+  * **Propósito**: A proposta é criar uma experiência de aprendizado mais divertida, dinâmica e envolvente.
+  * **Quem nós somos**: Desenvolvido por alunos de TI do SENAI com o objetivo de aplicar conhecimentos para criar uma solução inovadora.
+
+-----
+
+## 💻 Tecnologias Utilizadas
+
+Este projeto foi construído com as seguintes tecnologias:
+
+  * **React:** Biblioteca JavaScript para criar interfaces de usuário.
+  * **Tailwind CSS:** Framework CSS para um desenvolvimento rápido de interfaces.
+  * **JavaScript:** Linguagem de programação principal.
+  * **Lucide React:** Ícones para a interface do usuário.
+
+-----
+
+## 🚀 Como Executar o Projeto
+
+Para rodar este projeto na sua máquina, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+
+    ```bash
+    git clone https://github.com/rodrigotoshio/Tela-Home.git
+    ```
+
+2.  **Navegue até o diretório do projeto:**
+
+    ```bash
+    cd Tela-Home
+    ```
+
+3.  **Instale as dependências:**
+
+    ```bash
+    npm install
+    ```
+
+4.  **Inicie o servidor de desenvolvimento:**
+
+    ```bash
+    npm run dev
+    ```
+
+5.  Abra o seu navegador e acesse `http://localhost:5173/` para ver o projeto em funcionamento.
+
+-----
+
+## 📧 Contato
+
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através do meu perfil no GitHub:
+
+  * **GitHub:** [rodrigotoshio](https://www.google.com/search?q=https://github.com/rodrigotoshio)
+
+-----
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT License](https://opensource.org/licenses/MIT).
